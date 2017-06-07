@@ -1,2 +1,4 @@
 "# Udacity-Deep-Learning-face_generation" 
 data
+.ipynb_checkpoints
+__pycache__
